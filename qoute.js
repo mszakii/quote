@@ -218,7 +218,9 @@ const jsonData = {
 {
        "quote":"The only way to do great work is to love what you do.","author":"Steve Jobs"},
 {
-       "quote":"If you can dream it, you can achieve it.","author":"Zig Ziglar"}
+       "quote":"If you can dream it, you can achieve it.","author":"Zig Ziglar"},
+{
+       "quote":"Don't waste gold","author":"Ahmed Abozaid"},
 ]
 }
 
